@@ -7,7 +7,7 @@ Grado 4°
 Cbtis122
 Programacion
 
-Iformacion de ejercicio
+Informacion de ejercicio
 problemasDecicionales
 Hice una pagina web con ejercicios de algoritmos usando HTML, CSS y JavaScript. Cada problema resuelve operaciones y decisiones mostrando resultados en pantalla
 todos los ejercicios quedaron organizados y conectados desde un menu principal.
