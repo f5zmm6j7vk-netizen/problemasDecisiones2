@@ -1,7 +1,7 @@
 # problemasDecisiones2
 Campo de informacion
 Miguel Angel Varela Corral
-Num Control 308051220602
+308051220602
 Grupo F
 Grado 4°
 Cbtis122
